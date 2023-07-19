@@ -1,7 +1,7 @@
-![github stats](https://github-readme-stats-hussnainwithss.vercel.app/api?username=hussnainwithss&show_icons=true&theme=react)
+![github stats](https://github-readme-stats-hussnainwithss.vercel.app/api?username=hussnainwithss&show_icons=true&theme=react&count_private=true)
 =======================================
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hussnainwithss&theme=react&layout=compact)
+![Top Langs](https://github-readme-stats-hussnainwithss.vercel.app/api/top-langs/?username=hussnainwithss&theme=react&layout=compact)
 =======================================
 
 <!--

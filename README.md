@@ -1,10 +1,8 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=hussnainwithss&show_icons=true&theme=react)
+![github stats](https://github-readme-stats-hussnainwithss.vercel.app/api?username=hussnainwithss&show_icons=true&theme=react)
 =======================================
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hussnainwithss&theme=react&layout=compact)
 =======================================
-
-<img src="https://ghpvc.mohsin.ninja/hussnainwithss" alt="Hussnain" />
 
 <!--
 **hussnainwithss/hussnainwithss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
